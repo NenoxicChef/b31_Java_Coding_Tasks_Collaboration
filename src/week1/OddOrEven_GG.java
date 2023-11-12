@@ -1,6 +1,6 @@
 package week1;
 
-public class OddOrEven {
+public class OddOrEven_GG {
 
     public static void oddOrEven(int number){
         if (number%2==0){
