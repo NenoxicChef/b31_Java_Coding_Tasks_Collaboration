@@ -1,6 +1,6 @@
 package week2;
 
-public class Question1_ZM {
+public class Question1_ZO {
 
     public static void main(String[] args) {
         String by3 = "";
