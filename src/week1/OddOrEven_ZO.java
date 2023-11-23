@@ -13,7 +13,7 @@ public class OddOrEven_ZO {
 
     public static void main(String[] args) {
 
-    int num = 5;
+    int num = 4;
     if (OddorEven(num)==true){
         System.out.println("Even");
     }else {
