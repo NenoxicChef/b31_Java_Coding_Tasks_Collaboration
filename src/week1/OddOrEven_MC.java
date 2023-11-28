@@ -1,3 +1,5 @@
+package week1;
+
 public class OddOrEven_MC {
 
 public static void OddOrEven (int num){
