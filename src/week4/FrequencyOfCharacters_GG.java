@@ -1,7 +1,7 @@
 package week4;
 
 public class FrequencyOfCharacters_GG {
-    public class FrequencyOfCharacters {
+
 
         public static void main(String[] args) {
 
@@ -35,5 +35,4 @@ public class FrequencyOfCharacters_GG {
 
         }
     }
-}
 
