@@ -9,7 +9,7 @@ public class SameLetters_BM {
 
         Arrays.sort(ch1);
         Arrays.sort(ch2);
-        String a1 = "", a2 = "";
+       /* String a1 = "", a2 = "";
 
         for (char each : ch1) {
             a1 += each;
@@ -19,7 +19,10 @@ public class SameLetters_BM {
             a2 += each;
         }
 
-        return a1.equals(a2);
+        return a1.equals(a2);*/
+
+
+        return Arrays.equals(ch1,ch2);
     }
 
     public static void main(String[] args) {
