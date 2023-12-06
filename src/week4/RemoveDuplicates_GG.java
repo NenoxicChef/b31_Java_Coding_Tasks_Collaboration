@@ -4,12 +4,11 @@ public class RemoveDuplicates_GG {
     public static void main(String[] args) {
 
         /*
+        String Remove Duplicates
+        Write a return method that can remove the duplicated values from
         String
-Remove Duplicates
-Write a return method that can remove the duplicated values from
-String
-Ex:
-removeDup (" AAABBBCCC")==> ABC
+        Ex:
+        removeDup (" AAABBBCCC")==> ABC
          */
 
         String str = "AAABBBCCC";
