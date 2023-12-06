@@ -22,7 +22,7 @@ public class FrequencyOfCharacters_GG {
                     }
                 }
 
-                if(result.contains(""+ch)){
+                if(result.contains(""+ch)){ // checking if the contains
                     continue;
                 }
 
