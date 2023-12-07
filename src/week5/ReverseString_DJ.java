@@ -17,8 +17,4 @@ public class ReverseString_DJ {
         return reverse;
     }
 }
-/*
-                                String -- Reverse
-                                Write a return method that can reverse String
-                                Ex: Reverse("ABCD"); ==> DCBA
- */
+
