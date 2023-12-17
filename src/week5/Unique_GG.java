@@ -12,8 +12,8 @@ public class Unique_GG {
 
         String unique = "";
 
-        for (int i = 0; i < str.length(); i++) { // i: index numbers of str
-            char each = str.charAt(i);
+        for (int i = 0; i < unique.length(); i++) { // i: index numbers of str
+            char each = unique.charAt(i);
 
             if(str.indexOf(each) == str.lastIndexOf(each)  ){
                 unique += each;
