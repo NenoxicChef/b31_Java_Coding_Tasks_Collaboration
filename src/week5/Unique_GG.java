@@ -10,6 +10,7 @@ public class Unique_GG {
 
     public static String unique (String str){
 
+
         String unique = "";
 
         for (int i = 0; i < str.length(); i++) { // i: index numbers of str
@@ -20,6 +21,7 @@ public class Unique_GG {
             }
 
         }
+
 
         return unique;
 
