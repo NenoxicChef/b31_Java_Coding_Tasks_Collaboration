@@ -2,7 +2,7 @@ package week7;
 
 import java.util.Arrays;
 
-public class SortArrayAscending {
+public class SortArrayAscending_GG {
 
     public static void main(String[] args) {
         System.out.println("Arrays sort ascending = " + Arrays.toString(sortAscending(10, 9, 8, 7, 6, 5, -1,-89,-88)));
