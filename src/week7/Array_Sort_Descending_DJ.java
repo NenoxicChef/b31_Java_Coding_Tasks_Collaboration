@@ -2,6 +2,11 @@ package week7;
 
 import java.util.Arrays;
 
+/*
+Question3: Array - Sort Descending
+Write a return method that can sort an int array in descending order without using the sort method of the Arrays class
+ */
+
 public class Array_Sort_Descending_DJ {
 
 
